@@ -1,4 +1,4 @@
-# E-Commerce App.
+# E-Commerce App
 
 ## Takım Üyeleri
 - **Berkay Türk 221216049**
